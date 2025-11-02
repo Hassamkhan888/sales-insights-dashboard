@@ -14,10 +14,10 @@ It helps understand **who buys the most, from where, and through which channel**
 ---
 
 ## 📈 Key Insights
-- **Women** customers are more likely to buy compared to men (~65%)  
-- **Maharashtra, Karnataka, and Uttar Pradesh** are the top-performing states (~35%)  
-- **Adult age group (30–49 years)** contributes the most (~50%)  
-- **Amazon, Flipkart, and Myntra** generate the highest sales (~80%)  
+- 👩 **Women customers** are more likely to buy compared to men (~65%)  
+- 🏙️ **Maharashtra, Karnataka, and Uttar Pradesh** are the top-performing states (~35%)  
+- 👨‍🦳 **Adult age group (30–49 years)** contributes the most (~50%)  
+- 🛒 **Amazon, Flipkart, and Myntra** generate the highest sales (~80%)  
 
 ---
 
@@ -43,6 +43,7 @@ To improve overall sales performance:
 - `Sales_Insights_Dashboard.xlsx` — Main Excel dashboard  
 - `Sales_Data.csv` — Raw dataset  
 - `README.md` — Project documentation  
+- `sales_insights_dashboard.png` — Dashboard screenshot  
 
 ---
 
@@ -55,11 +56,17 @@ To improve overall sales performance:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](./sales_insights_dashboard.png)
+<p align="center">
+  <img src="./sales_insights_dashboard.png" alt="Excel Sales Insights Dashboard" width="700"/>
+</p>
 
 ---
 
 ## ✍️ Author
 **Hassam Khan**  
-📧 Email: hassamkhan888@gmail.com  
+📧 Email: [hassamkhan888@gmail.com](mailto:hassamkhan888@gmail.com)  
 📍 Location: Karachi, Pakistan  
+
+---
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
