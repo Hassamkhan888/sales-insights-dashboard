@@ -55,7 +55,7 @@ To improve overall sales performance:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](D:\Data Analyst Portfolio Project\Sales Insights Dashboard\Sales Insights Dashboard .png)
+![Dashboard Screenshot](./sales_insights_dashboard.png)
 
 ---
 
